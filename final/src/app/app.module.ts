@@ -9,7 +9,12 @@ import { LoginComponent } from './componentes/login/login.component';
 import { ContactenosComponent } from './componentes/contactenos/contactenos.component';
 import { MenuComponent } from './componentes/menu/menu.component';
 import { FooterComponent } from './componentes/footer/footer.component';
-import { HeaderComponent } from './componente/header/header.component';
+import { HeaderComponent } from './componentes/header/header.component';
+import { QuienesSomosComponent } from './componentes/quienes-somos/quienes-somos.component';
+import { CarruselComponent } from './componentes/carrusel/carrusel.component';
+import { SeccioninformativaComponent } from './componentes/seccioninformativa/seccioninformativa.component';
+import { ServiciosComponent } from './componentes/servicios/servicios.component';
+
 
 @NgModule({
   declarations: [
@@ -20,7 +25,12 @@ import { HeaderComponent } from './componente/header/header.component';
     ContactenosComponent,
     MenuComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
+    QuienesSomosComponent,
+    CarruselComponent,
+    SeccioninformativaComponent,
+    ServiciosComponent
+    
   ],
   imports: [
     BrowserModule,
