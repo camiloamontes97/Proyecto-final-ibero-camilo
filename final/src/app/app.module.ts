@@ -14,6 +14,8 @@ import { QuienesSomosComponent } from './componentes/quienes-somos/quienes-somos
 import { CarruselComponent } from './componentes/carrusel/carrusel.component';
 import { SeccioninformativaComponent } from './componentes/seccioninformativa/seccioninformativa.component';
 import { ServiciosComponent } from './componentes/servicios/servicios.component';
+import { TarjetasServiciosComponent } from './componetes/tarjetas-servicios/tarjetas-servicios.component';
+import { TarjetasComponent } from './componetes/tarjetas/tarjetas.component';
 
 
 @NgModule({
@@ -29,7 +31,9 @@ import { ServiciosComponent } from './componentes/servicios/servicios.component'
     QuienesSomosComponent,
     CarruselComponent,
     SeccioninformativaComponent,
-    ServiciosComponent
+    ServiciosComponent,
+    TarjetasServiciosComponent,
+    TarjetasComponent
     
   ],
   imports: [
