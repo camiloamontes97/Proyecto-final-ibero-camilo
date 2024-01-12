@@ -16,6 +16,11 @@ import { SeccioninformativaComponent } from './componentes/seccioninformativa/se
 import { ServiciosComponent } from './componentes/servicios/servicios.component';
 import { TarjetasServiciosComponent } from './componetes/tarjetas-servicios/tarjetas-servicios.component';
 import { TarjetasComponent } from './componetes/tarjetas/tarjetas.component';
+import { InfocontactenosComponent } from './componentes/infocontactenos/infocontactenos.component';
+import { ServiciohogarComponent } from './componentes/serviciohogar/serviciohogar.component';
+import { ServicioempresarialComponent } from './componentes/servicioempresarial/servicioempresarial.component';
+import { CompraraireComponent } from './componentes/compraraire/compraraire.component';
+import { TecnoaliadosComponent } from './componentes/tecnoaliados/tecnoaliados.component';
 
 
 @NgModule({
@@ -33,7 +38,12 @@ import { TarjetasComponent } from './componetes/tarjetas/tarjetas.component';
     SeccioninformativaComponent,
     ServiciosComponent,
     TarjetasServiciosComponent,
-    TarjetasComponent
+    TarjetasComponent,
+    InfocontactenosComponent,
+    ServiciohogarComponent,
+    ServicioempresarialComponent,
+    CompraraireComponent,
+    TecnoaliadosComponent
     
   ],
   imports: [
