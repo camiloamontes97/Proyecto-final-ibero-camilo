@@ -17,10 +17,14 @@ import { ServiciosComponent } from './componentes/servicios/servicios.component'
 import { TarjetasServiciosComponent } from './componetes/tarjetas-servicios/tarjetas-servicios.component';
 import { TarjetasComponent } from './componetes/tarjetas/tarjetas.component';
 import { InfocontactenosComponent } from './componentes/infocontactenos/infocontactenos.component';
-import { ServiciohogarComponent } from './componentes/serviciohogar/serviciohogar.component';
 import { ServicioempresarialComponent } from './componentes/servicioempresarial/servicioempresarial.component';
+import { ServiciohogarComponent } from './componentes/serviciohogar/serviciohogar.component';
 import { CompraraireComponent } from './componentes/compraraire/compraraire.component';
 import { TecnoaliadosComponent } from './componentes/tecnoaliados/tecnoaliados.component';
+import { FormulariologinComponent } from './componentes/formulariologin/formulariologin.component';
+import { FormularioregistroComponent } from './componentes/formularioregistro/formularioregistro.component';
+import { ZonaprivadausuarioComponent } from './componentes/zonaprivadausuario/zonaprivadausuario.component';
+import { MenulateralComponent } from './componentes/menulateral/menulateral.component';
 
 
 @NgModule({
@@ -40,11 +44,17 @@ import { TecnoaliadosComponent } from './componentes/tecnoaliados/tecnoaliados.c
     TarjetasServiciosComponent,
     TarjetasComponent,
     InfocontactenosComponent,
-    ServiciohogarComponent,
     ServicioempresarialComponent,
+    ServiciohogarComponent,
     CompraraireComponent,
-    TecnoaliadosComponent
-    
+    TecnoaliadosComponent,
+    FormulariologinComponent,
+    FormularioregistroComponent,
+    FormularioregistroComponent,
+    ZonaprivadausuarioComponent,
+    ZonaprivadausuarioComponent,
+    MenulateralComponent,
+  
   ],
   imports: [
     BrowserModule,

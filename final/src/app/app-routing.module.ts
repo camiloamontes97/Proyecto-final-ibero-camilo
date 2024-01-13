@@ -10,6 +10,7 @@ import { ServicioempresarialComponent } from './componentes/servicioempresarial/
 import { ServiciohogarComponent } from './componentes/serviciohogar/serviciohogar.component';
 import { CompraraireComponent } from './componentes/compraraire/compraraire.component';
 import { TecnoaliadosComponent } from './componentes/tecnoaliados/tecnoaliados.component';
+import { ZonaprivadausuarioComponent } from './componentes/zonaprivadausuario/zonaprivadausuario.component';
 
 const routes: Routes = [
 
@@ -24,6 +25,7 @@ const routes: Routes = [
   {path:"serviciosHogar",component:ServiciohogarComponent,pathMatch:"full"},
   {path:"compraraire",component:CompraraireComponent,pathMatch:"full"},
   {path:"tecnoaliados",component:TecnoaliadosComponent,pathMatch:"full"},
+  {path:"zonaprivadausuarios",component:ZonaprivadausuarioComponent,pathMatch:"full"},
   
 
   
