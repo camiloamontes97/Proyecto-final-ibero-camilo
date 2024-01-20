@@ -1,0 +1,15 @@
+#contenido-barra{
+    border: 1px solid black;
+    height: 600px;
+    width: 200px;
+
+}
+
+#contenido-barra{
+    padding:5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#contenido-barra{
+    border-style:ridge;
+}

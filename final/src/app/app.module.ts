@@ -25,6 +25,9 @@ import { FormulariologinComponent } from './componentes/formulariologin/formular
 import { FormularioregistroComponent } from './componentes/formularioregistro/formularioregistro.component';
 import { ZonaprivadausuarioComponent } from './componentes/zonaprivadausuario/zonaprivadausuario.component';
 import { MenulateralComponent } from './componentes/menulateral/menulateral.component';
+import { MenutecnialiadosComponent } from './componentes/menutecnialiados/menutecnialiados.component';
+import { ImagenzonaprivadaComponent } from './componentes/imagenzonaprivada/imagenzonaprivada.component';
+import { isFormArray } from '@angular/forms';
 
 
 @NgModule({
@@ -54,6 +57,10 @@ import { MenulateralComponent } from './componentes/menulateral/menulateral.comp
     ZonaprivadausuarioComponent,
     ZonaprivadausuarioComponent,
     MenulateralComponent,
+    MenutecnialiadosComponent,
+    MenutecnialiadosComponent,
+    ImagenzonaprivadaComponent,
+    ImagenzonaprivadaComponent,
   
   ],
   imports: [
