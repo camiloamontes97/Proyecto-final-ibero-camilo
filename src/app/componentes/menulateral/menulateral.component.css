@@ -1,0 +1,39 @@
+#contenido-barra{
+    border: 1px solid black;
+    height: 600px;
+    width: 200px;
+
+}
+
+#contenido-barra{
+    padding:5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#contenido-barra{
+    border-style:ridge;
+    background: rgb(9, 9, 138);
+}
+
+#logo-tecnoclima{
+
+    width: 100%;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+
+i{
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+#contenedor-iconos{
+    height: 100%;
+}
+
+
+#barra-vertical{
+    
+    height: 100%;
+}

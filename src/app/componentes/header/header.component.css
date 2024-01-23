@@ -1,7 +1,17 @@
-#barra-usuario{
-    left:200%;
+
+
+
+nav{
+    background-color: aliceblue;
+}
+#contenido-header{
+    font-size: 15px;
+    
+
 }
 
-header{
-    background: ghostwhite;
+#barra-usuario{
+    font-size: 15px;
+
 }
+

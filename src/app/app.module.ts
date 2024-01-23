@@ -14,6 +14,21 @@ import { QuienesSomosComponent } from './componentes/quienes-somos/quienes-somos
 import { CarruselComponent } from './componentes/carrusel/carrusel.component';
 import { SeccioninformativaComponent } from './componentes/seccioninformativa/seccioninformativa.component';
 import { ServiciosComponent } from './componentes/servicios/servicios.component';
+import { TarjetasServiciosComponent } from './componetes/tarjetas-servicios/tarjetas-servicios.component';
+import { TarjetasComponent } from './componetes/tarjetas/tarjetas.component';
+import { InfocontactenosComponent } from './componentes/infocontactenos/infocontactenos.component';
+import { ServicioempresarialComponent } from './componentes/servicioempresarial/servicioempresarial.component';
+import { ServiciohogarComponent } from './componentes/serviciohogar/serviciohogar.component';
+import { CompraraireComponent } from './componentes/compraraire/compraraire.component';
+import { TecnoaliadosComponent } from './componentes/tecnoaliados/tecnoaliados.component';
+import { FormulariologinComponent } from './componentes/formulariologin/formulariologin.component';
+import { FormularioregistroComponent } from './componentes/formularioregistro/formularioregistro.component';
+import { ZonaprivadausuarioComponent } from './componentes/zonaprivadausuario/zonaprivadausuario.component';
+import { MenulateralComponent } from './componentes/menulateral/menulateral.component';
+import { MenutecnialiadosComponent } from './componentes/menutecnialiados/menutecnialiados.component';
+import { ImagenzonaprivadaComponent } from './componentes/imagenzonaprivada/imagenzonaprivada.component';
+import { isFormArray } from '@angular/forms';
+import { Barravertical2Component } from './componentes/barravertical2/barravertical2.component';
 
 
 @NgModule({
@@ -29,8 +44,26 @@ import { ServiciosComponent } from './componentes/servicios/servicios.component'
     QuienesSomosComponent,
     CarruselComponent,
     SeccioninformativaComponent,
-    ServiciosComponent
-    
+    ServiciosComponent,
+    TarjetasServiciosComponent,
+    TarjetasComponent,
+    InfocontactenosComponent,
+    ServicioempresarialComponent,
+    ServiciohogarComponent,
+    CompraraireComponent,
+    TecnoaliadosComponent,
+    FormulariologinComponent,
+    FormularioregistroComponent,
+    FormularioregistroComponent,
+    ZonaprivadausuarioComponent,
+    ZonaprivadausuarioComponent,
+    MenulateralComponent,
+    MenutecnialiadosComponent,
+    MenutecnialiadosComponent,
+    ImagenzonaprivadaComponent,
+    ImagenzonaprivadaComponent,
+    Barravertical2Component,
+  
   ],
   imports: [
     BrowserModule,

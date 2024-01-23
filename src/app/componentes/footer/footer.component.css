@@ -11,4 +11,35 @@ footer {
 
 h2{
     margin-top: 15px;
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+a{
+    text-decoration: none;
+}
+
+#eslogan-footer{
+    margin-bottom: 30px;
+}
+
+#opciones-footer{
+    margin-bottom: 30px;
+}
+
+#logos-redes{
+    margin-bottom: 50px;
+}
+
+#avisos-legales{
+    margin-bottom:30px ;
+}
+
+#derechos-autor{
+    margin-top: 30px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
 }
