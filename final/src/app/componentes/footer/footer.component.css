@@ -1,6 +1,6 @@
-
+/* falta agregar el color secundario desde variables de colores */
 footer {
-    background:#14477d;
+    background-color: #89BEE8; 
     margin-top: 500px;
 }
 

@@ -1,11 +1,14 @@
 
 nav{
+    display: flex;
+    align-content: space-between;
+    background-color: #89bee8;
     padding: 10px;
     top: 15px;
     
     margin-left: 13px;
     margin-right: 13px;
-    width: 100%;
+    
 }
 
 #logo{
@@ -16,4 +19,10 @@ nav{
 li{
     
     padding: 5px;
+}
+
+.barra-navegador{
+    width: 100%;
+    
+    color:#051c14 ;
 }

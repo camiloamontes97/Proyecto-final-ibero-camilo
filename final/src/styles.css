@@ -1,5 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 
 body{
-    background: aliceblue;
+    background:  var(--fondo-bg-color);
+    color:#051c14 ;
+}
+html{
+    color: #051c14;
 }

@@ -1,8 +1,10 @@
 
-
+#navbar{
+    background-color: #89BEE8;
+}
 
 nav{
-    background-color: aliceblue;
+    background-color: #89BEE8;
 }
 #contenido-header{
     font-size: 15px;

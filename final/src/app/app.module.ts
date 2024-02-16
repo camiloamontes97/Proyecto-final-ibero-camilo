@@ -28,6 +28,16 @@ import { MenulateralComponent } from './componentes/menulateral/menulateral.comp
 import { MenutecnialiadosComponent } from './componentes/menutecnialiados/menutecnialiados.component';
 import { ImagenzonaprivadaComponent } from './componentes/imagenzonaprivada/imagenzonaprivada.component';
 import { isFormArray } from '@angular/forms';
+import { Barravertical2Component } from './componentes/barravertical2/barravertical2.component';
+import { ComponentesComponent } from './componentes/componentes.component';
+import { RecuperarcontraComponent } from './componentes/recuperarcontra/recuperarcontra.component';
+import { CodigorecuperacionComponent } from './componentes/codigorecuperacion/codigorecuperacion.component';
+import { RestablecercontraComponent } from './componentes/restablecercontra/restablecercontra.component';
+import { ComprasZonaPrivadaComponent } from './componentes/compras-zona-privada/compras-zona-privada.component';
+import { MetodosPagosZonaPrivadaComponent } from './componentes/metodos-pagos-zona-privada/metodos-pagos-zona-privada.component';
+import { ConfiZonaPrivadaComponent } from './componentes/confi-zona-privada/confi-zona-privada.component';
+import { InfoZonaPrivadaComponent } from './componentes/info-zona-privada/info-zona-privada.component';
+import { MenuHorizontalZonaPrivadaComponent } from './componentes/menu-horizontal-zona-privada/menu-horizontal-zona-privada.component';
 
 
 @NgModule({
@@ -61,6 +71,16 @@ import { isFormArray } from '@angular/forms';
     MenutecnialiadosComponent,
     ImagenzonaprivadaComponent,
     ImagenzonaprivadaComponent,
+    Barravertical2Component,
+    ComponentesComponent,
+    RecuperarcontraComponent,
+    CodigorecuperacionComponent,
+    RestablecercontraComponent,
+    ComprasZonaPrivadaComponent,
+    MetodosPagosZonaPrivadaComponent,
+    ConfiZonaPrivadaComponent,
+    InfoZonaPrivadaComponent,
+    MenuHorizontalZonaPrivadaComponent,
   
   ],
   imports: [

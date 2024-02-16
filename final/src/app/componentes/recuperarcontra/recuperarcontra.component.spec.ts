@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { HeaderComponent } from './header.component';
+import { RecuperarcontraComponent } from './recuperarcontra.component';
 
-describe('HeaderComponent', () => {
-  let component: HeaderComponent;
-  let fixture: ComponentFixture<HeaderComponent>;
+describe('RecuperarcontraComponent', () => {
+  let component: RecuperarcontraComponent;
+  let fixture: ComponentFixture<RecuperarcontraComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [HeaderComponent]
+      declarations: [RecuperarcontraComponent]
     })
     .compileComponents();
     
-    fixture = TestBed.createComponent(HeaderComponent);
+    fixture = TestBed.createComponent(RecuperarcontraComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

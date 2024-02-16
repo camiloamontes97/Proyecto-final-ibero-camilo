@@ -2,6 +2,7 @@
     border: 1px solid black;
     height: 600px;
     width: 200px;
+    position: absolute;
 
 }
 
@@ -12,4 +13,29 @@
 }
 #contenido-barra{
     border-style:ridge;
+    background: rgb(81, 177, 233);
 }
+
+#logo-tecnoclima{
+
+    width: 100%;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+
+i{
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+#contenedor-iconos{
+    height: 100%;
+}
+
+
+#barra-vertical{
+    
+    height: 100%;
+}
+
